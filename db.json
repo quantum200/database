@@ -1,0 +1,27 @@
+{
+    "products": {
+        "smartphones": [
+            {
+                "name": "iphone",
+                "price": "27 499,99",
+                "currency": "uah",
+                "link": "https://estore.ua/ua/smartfony/manufacturer:apple/",
+                "desc": "это классный телефон!"
+            },
+            {
+                "name": "xiaomi",
+                "price": "13 999,99",
+                "currency": "uah",
+                "link": "https://www.citrus.ua/uk/smartfony/brand-xiaomi/",
+                "desc": "это тоже не плохой телефон!"
+            },
+            {
+                "name": "samsung",
+                "price": "23 699,99",
+                "currency": "uah",
+                "link": "https://www.citrus.ua/uk/smartfony/brand-samsung/",
+                "desc": "это классный телефон!"
+            }
+        ]
+    }
+}
